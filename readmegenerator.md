@@ -7,7 +7,7 @@
   4. [Licensing](#licensing)
   5. [Contributing](#contributing) 
   6. [Tests](#tests)
-  7. [Additional Questions](#additional-questions-?)
+  7. [Additional Questions](#additional-questions?)
 
   ---  
 
