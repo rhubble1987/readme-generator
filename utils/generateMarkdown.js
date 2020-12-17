@@ -20,7 +20,7 @@ function generateMarkdown(data) {
   3. [Usage](#usage)
   4. [Licensing](#licensing)
   5. [Contributing](#contributing) 
-  6. [Additional Questions](#additional-questions-?)
+  6. [Additional Questions](#additional-questions?)
 
   ---  
 
