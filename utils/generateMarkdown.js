@@ -13,6 +13,7 @@ function generateMarkdown(data) {
     licenseExplanation = 'App cannot be modified.';
 } 
   return `# ${data.title}  
+  License: ${data.licenseInfo}
 
   ## Table of Contents  
   1. [Description](#description) 

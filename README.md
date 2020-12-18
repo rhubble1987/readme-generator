@@ -1,4 +1,4 @@
-# README Generator  
+# README Generator  https://img.shields.io/badge/license-Public%20Domain-brightgreen
 
   ## Table of Contents  
   1. [Description](#description) 
