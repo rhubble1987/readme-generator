@@ -23,6 +23,8 @@
   ## Usage:  
   To use the app, open the terminal and switch to the readme-generator directory. Then enter the command 'node index.js'. You will then be presented with the prompts for each section. Answer all of the questions and you'll then have your completed file. The newly created README can be found in the readme-generator folder.  
 
+  You can also view [this demo](https://drive.google.com/file/d/1oFyvImpI0GNgqteGNZHkXVnefe_wTqWf/view?usp=sharing) on how to use the app!
+
   --- 
 
   ## Licensing:  

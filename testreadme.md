@@ -1,4 +1,5 @@
-# README Generator  
+# Test Readme    
+  ![badge](https://img.shields.io/badge/license-Public%20Domain-brightgreen)
 
   ## Table of Contents  
   1. [Description](#description) 
@@ -6,36 +7,35 @@
   3. [Usage](#usage)
   4. [Licensing](#licensing)
   5. [Contributing](#contributing) 
-  6. [Tests](#tests)
-  7. [Additional Questions](#additional-questions?)
+  6. [Additional Questions](#additional-questions?)
 
   ---  
 
   ## Description:  
-  For this assignment, we were to  
+  test description  
 
   ---  
 
   ## Installation:  
-    
+  test installation instructions  
 
   ---  
 
   ## Usage:  
-    
+  test user guide  
 
   --- 
 
   ## Licensing:  
-  Public Domain  
+  Public Domain - App can be shared and modified however you want!
 
   ---  
 
   ## Contributing:  
-    
+  test contribution guidelines  
 
   ---  
   ## Additional Questions?  
   If you have any other questions, you can contact the project creator at:  
-  GitHub username:   
-  Email address: 
+  GitHub username: test username  
+  Email address: test email
